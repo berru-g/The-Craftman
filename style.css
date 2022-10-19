@@ -304,7 +304,7 @@ img {
     display: block;
     width: 100%;
     cursor: pointer;
-    border: 1px solid #ffffff33;
+    border: 1px solid #ffd166;
     background: transparent;
 }
 
@@ -354,7 +354,7 @@ img {
 }
 
 .card_title {
-    color: #ef476f;
+    color: #ffd166;
     font-size: 1.1rem;
     font-weight: 700;
     letter-spacing: 1px;
@@ -387,3 +387,17 @@ footer {
     color: #1a1a1a;
     letter-spacing: 4px;
 }
+
+    
+/*
+primary : {
+    custom_title : Github activity ,
+    title_color : "086788" ,
+    icon_color : "dd1c1a" ,
+    text_color : "06aed5" ,
+    bg_color : "fff1d0" , 
+    hide_border : "true" ,
+    } ,
+&custom_title=Github activity&title_color=086788&icon_color=dd1c1a&text_color=06aed5&bg_color=fff1d0&hide_border=true
+
+*/
