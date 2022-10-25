@@ -8,7 +8,6 @@
 }
 
 #repo:hover {
-    margin: 3em;
     opacity: 0.9;
 }
 
@@ -212,7 +211,7 @@ iframe {
 
 a {
     text-decoration: none;
-    color: #1a1a1a;
+    color: #fffcfc;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -338,7 +337,7 @@ img {
 }
 
 .card {
-    background-color: #ffffff00;
+    background-color: #0d6481;
     border-radius: 0.25rem;
     box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
     display: flex;
@@ -382,13 +381,13 @@ footer {
     width: 100%;
     height: 40px;
     position: absolute;
-    background-color: #fffcfc;
+    background-color: #1a1a1a;
     text-align: center;
-    color: #1a1a1a;
+    color: #fffcfc;
     letter-spacing: 4px;
 }
 
-    
+
 /*
 primary : {
     custom_title : Github activity ,
@@ -398,6 +397,6 @@ primary : {
     bg_color : "fff1d0" , 
     hide_border : "true" ,
     } ,
-&custom_title=Github activity&title_color=086788&icon_color=dd1c1a&text_color=06aed5&bg_color=fff1d0&hide_border=true
+&custom_title=Github activity&title_color=086788&icon_color=dd1c1a&text_color=06aed5&bg_color=fff1d0&hide_border=true&include_all_commits=true
 
 */
